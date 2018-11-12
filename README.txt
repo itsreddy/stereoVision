@@ -1,1 +1,1 @@
-experiments with stereo camera setup to use 3D data for head pose
+Experiments with stereo camera setup to use depth data for head pose
